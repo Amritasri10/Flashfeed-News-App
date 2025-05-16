@@ -4,12 +4,6 @@ FlashFeed is a modern and responsive news search application built with **React.
 
 ---
 
-## 🖥️ Live Demo
-
-[View Live Site](#)
-
----
-
 ## 🚀 Features
 
 - **Search News:** Instantly search for the latest news by keyword.
@@ -31,13 +25,10 @@ FlashFeed is a modern and responsive news search application built with **React.
 ## 📸 UI Preview
 
 ### Homepage with Top Headlines and Search Bar
-![Homepage Screenshot](./screenshots/homepage.png)
+![Homepage Screenshot](src/screenshot.png)
 
 ### Dark Mode Enabled
-![Dark Mode Screenshot](./screenshots/darkmode.png)
-
-### Search Results Page
-![Search Results Screenshot](./screenshots/search-results.png)
+![Dark Mode Screenshot](src/screenshot2.png)
 
 ---
 
