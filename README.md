@@ -34,19 +34,20 @@ FlashFeed is a modern and responsive news search application built with **React.
 ## 📦 How To Run Project
 
 1. Clone the repository
-    `git clone https://github.com/Amritasri10/flashfeed-news-app.git`
+   
+       `git clone https://github.com/Amritasri10/flashfeed-news-app.git`
 
-2. Navigate to the project directory
-    `cd flashfeed-news-app`
+2. Install dependencies
 
-3. Install dependencies
-    `npm install`
+       `npm install`
 
-4. Start the development server
-    `npm start`
+3. Start the development server
 
-5. Open your browser and visit 
-    `http://localhost:3000`
+        `npm start`
+
+4. Open your browser and visit 
+
+        `http://localhost:3000`
 
 ---
 
